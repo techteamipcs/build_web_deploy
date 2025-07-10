@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="46" height="32" viewBox="0 0 46 32">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_285" data-name="Rectangle 285" width="46" height="32" transform="translate(1087 591)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <path id="Path_426" data-name="Path 426" d="M5.031,10.781A2.163,2.163,0,0,1,7.188,8.625H48.875a2.163,2.163,0,0,1,2.156,2.156V35.219a2.163,2.163,0,0,1-2.156,2.156H7.188a2.163,2.163,0,0,1-2.156-2.156Z"/>
+    </clipPath>
+    <clipPath id="clip-path-3">
+      <rect id="Rectangle_288" data-name="Rectangle 288" width="42.155" height="3.845" transform="translate(1.797 1.797)"/>
+    </clipPath>
+    <clipPath id="clip-path-5">
+      <path id="Path_427" data-name="Path 427" d="M28.1,17.933,25.911,28.247H23.252l2.192-10.314Zm11.284,6.648,1.4-3.881.827,3.881Zm2.983,3.666h2.48L42.694,17.933h-2.3a1.217,1.217,0,0,0-1.15.755l-4.025,9.559h2.8l.539-1.545h3.45ZM35.4,24.869c0-2.731-3.773-2.875-3.738-4.1,0-.4.359-.755,1.15-.863a5.231,5.231,0,0,1,2.659.467l.467-2.192a6.652,6.652,0,0,0-2.516-.467c-2.659,0-4.492,1.4-4.528,3.414-.036,1.509,1.33,2.3,2.336,2.8s1.4.863,1.4,1.294c0,.683-.863,1.006-1.617,1.006a5.7,5.7,0,0,1-2.767-.647l-.5,2.264a6.988,6.988,0,0,0,2.983.539C33.53,28.427,35.362,27.025,35.4,24.869Zm-11.1-6.936L19.981,28.247H17.142l-2.12-8.266a1.214,1.214,0,0,0-.611-.9,10.974,10.974,0,0,0-2.659-.862l.072-.288h4.564a1.239,1.239,0,0,1,1.222,1.078l1.078,5.93L21.455,17.9h2.839Z" transform="translate(-9.955 -15.92)"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_5" data-name="Mask Group 5" transform="translate(-1087 -591)" clip-path="url(#clip-path)">
+    <g id="_1933702_charge_credit_card_debit_payment_visa_icon" data-name="1933702_charge_credit card_debit_payment_visa_icon" transform="translate(1081.969 584)">
+      <g id="Group_342" data-name="Group 342">
+        <path id="Path_424" data-name="Path 424" d="M5.031,10.781A2.163,2.163,0,0,1,7.188,8.625H48.875a2.163,2.163,0,0,1,2.156,2.156V35.219a2.163,2.163,0,0,1-2.156,2.156H7.188a2.163,2.163,0,0,1-2.156-2.156Z" fill="#fff"/>
+        <g id="Group_341" data-name="Group 341" clip-path="url(#clip-path-2)">
+          <path id="Path_425" data-name="Path 425" d="M5.031,10.781A2.163,2.163,0,0,1,7.188,8.625H48.875a2.163,2.163,0,0,1,2.156,2.156V35.219a2.163,2.163,0,0,1-2.156,2.156H7.188a2.163,2.163,0,0,1-2.156-2.156Z" fill="#fff" stroke="#cbcbcb" stroke-width="0.719"/>
+        </g>
+      </g>
+      <g id="Group_344" data-name="Group 344">
+        <g id="Group_343" data-name="Group 343" transform="translate(5.139 29.828)" clip-path="url(#clip-path-3)">
+          <rect id="Rectangle_287" data-name="Rectangle 287" width="45.748" height="7.439" fill="#f7b600"/>
+        </g>
+      </g>
+      <g id="Group_346" data-name="Group 346">
+        <g id="Group_345" data-name="Group 345" transform="translate(5.139 8.733)" clip-path="url(#clip-path-3)">
+          <rect id="Rectangle_289" data-name="Rectangle 289" width="45.748" height="7.439" fill="#1a1f71"/>
+        </g>
+      </g>
+      <g id="Group_348" data-name="Group 348">
+        <g id="Group_347" data-name="Group 347" transform="translate(9.955 15.92)" clip-path="url(#clip-path-5)">
+          <rect id="Rectangle_291" data-name="Rectangle 291" width="36.692" height="14.267" fill="#1a1f71"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
