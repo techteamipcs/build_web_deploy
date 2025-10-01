@@ -128,3 +128,12 @@
     padding-bottom: 30px;
   }  
 }
+.csp60{
+  padding: 60px 0;
+  @media(max-width:1199px){
+    padding: 40px 0;
+  }
+  @media(max-width:575px){
+    padding: 30px 0;
+  }  
+}
