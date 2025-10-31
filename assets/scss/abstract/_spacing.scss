@@ -137,3 +137,147 @@
     padding: 30px 0;
   }  
 }
+
+
+/* ============================== margin classes (120 / 160 / 200) ================================*/
+.csmt120 {
+  margin-top: 120px;
+  @media(max-width:1199px) {
+    margin-top: 80px;
+  }
+  @media(max-width:575px) {
+    margin-top: 50px;
+  }
+}
+.csmb120 {
+  margin-bottom: 120px;
+  @media(max-width:1199px) {
+    margin-bottom: 80px;
+  }
+  @media(max-width:575px) {
+    margin-bottom: 50px;
+  }
+}
+
+.csmt160 {
+  margin-top: 160px;
+  @media(max-width:1199px) {
+    margin-top: 100px;
+  }
+  @media(max-width:575px) {
+    margin-top: 60px;
+  }
+}
+.csmb160 {
+  margin-bottom: 160px;
+  @media(max-width:1199px) {
+    margin-bottom: 100px;
+  }
+  @media(max-width:575px) {
+    margin-bottom: 60px;
+  }
+}
+
+.csmt200 {
+  margin-top: 200px;
+  @media(max-width:1199px) {
+    margin-top: 120px;
+  }
+  @media(max-width:575px) {
+    margin-top: 80px;
+  }
+}
+.csmb200 {
+  margin-bottom: 200px;
+  @media(max-width:1199px) {
+    margin-bottom: 120px;
+  }
+  @media(max-width:575px) {
+    margin-bottom: 80px;
+  }
+}
+
+/* ============================== padding classes (120 / 160 / 200) ================================*/
+.cspt120 {
+  padding-top: 120px;
+  @media(max-width:1199px) {
+    padding-top: 80px;
+  }
+  @media(max-width:575px) {
+    padding-top: 50px;
+  }
+}
+.cspb120 {
+  padding-bottom: 120px;
+  @media(max-width:1199px) {
+    padding-bottom: 80px;
+  }
+  @media(max-width:575px) {
+    padding-bottom: 50px;
+  }
+}
+.csp120 {
+  padding: 120px 0;
+  @media(max-width:1199px) {
+    padding: 80px 0;
+  }
+  @media(max-width:575px) {
+    padding: 50px 0;
+  }
+}
+
+.cspt160 {
+  padding-top: 160px;
+  @media(max-width:1199px) {
+    padding-top: 100px;
+  }
+  @media(max-width:575px) {
+    padding-top: 60px;
+  }
+}
+.cspb160 {
+  padding-bottom: 160px;
+  @media(max-width:1199px) {
+    padding-bottom: 100px;
+  }
+  @media(max-width:575px) {
+    padding-bottom: 60px;
+  }
+}
+.csp160 {
+  padding: 160px 0;
+  @media(max-width:1199px) {
+    padding: 100px 0;
+  }
+  @media(max-width:575px) {
+    padding: 60px 0;
+  }
+}
+
+.cspt200 {
+  padding-top: 200px;
+  @media(max-width:1199px) {
+    padding-top: 120px;
+  }
+  @media(max-width:575px) {
+    padding-top: 80px;
+  }
+}
+.cspb200 {
+  padding-bottom: 200px;
+  @media(max-width:1199px) {
+    padding-bottom: 120px;
+  }
+  @media(max-width:575px) {
+    padding-bottom: 80px;
+  }
+}
+.csp200 {
+  padding: 200px 0;
+  @media(max-width:1199px) {
+    padding: 120px 0;
+  }
+  @media(max-width:575px) {
+    padding: 80px 0;
+  }
+}
