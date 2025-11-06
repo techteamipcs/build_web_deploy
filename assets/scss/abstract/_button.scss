@@ -315,6 +315,10 @@
   &:hover .img {
     transform: translateX(18px);
     margin-left: 15px;
+    @media (max-width: 1536px) {
+      transform: translateX(5px);
+      margin-left: 10px;
+    }
   }
   .text,
   .img {
