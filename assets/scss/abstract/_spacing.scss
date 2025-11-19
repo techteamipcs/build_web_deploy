@@ -19,10 +19,10 @@
 }
 .sectionmb{
   margin-bottom: 80px;
-  @media(max-width:991px){
+  @media(max-width:1536px){
     margin-bottom: 50px;
   }
-  @media(max-width:575px){
+  @media(max-width:991px){
     margin-bottom: 30px;
   }  
 }
@@ -170,7 +170,7 @@
 }
 .csmb160 {
   margin-bottom: 160px;
-  @media(max-width:1199px) {
+  @media(max-width:1536px) {
     margin-bottom: 100px;
   }
   @media(max-width:575px) {
