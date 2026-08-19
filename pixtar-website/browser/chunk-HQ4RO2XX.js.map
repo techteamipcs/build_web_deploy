@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["src/app/providers/clients/clients.service.ts"],
+  "sourcesContent": ["import { Injectable } from '@angular/core';\nimport { catchError } from 'rxjs/operators';\nimport { HttpClient, HttpHeaders } from '@angular/common/http';\nimport { Observable, throwError } from 'rxjs';\n\nimport { environment } from '../../../environments/environment';\n\n@Injectable({\n  providedIn: 'root'\n})\nexport class ClientsService {\n\n  constructor(private http: HttpClient) { }\n\n  getClients = (moreData: any): Observable<any> => {\n    const endpoint = environment.baseUrl + '/api/logo/getalllogos';\n    return this.http\n      .post(endpoint, moreData, { observe: 'response' as 'body' })\n      .pipe(\n        catchError((err) => {\n          return throwError(err);\n        })\n      );\n  };\n}\n"],
+  "mappings": "6IAUA,IAAaA,GAAc,IAAA,CAArB,MAAOA,CAAc,CAEzBC,YAAoBC,EAAgB,CAAhB,KAAAA,KAAAA,EAEpB,KAAAC,WAAcC,GAAkC,CAC9C,IAAMC,EAAWC,EAAYC,QAAU,wBACvC,OAAO,KAAKL,KACTM,KAAKH,EAAUD,EAAU,CAAEK,QAAS,UAAoB,CAAE,EAC1DC,KACCC,EAAYC,GACHC,EAAWD,CAAG,CACtB,CAAC,CAER,CAXwC,iDAF7BZ,GAAcc,EAAAC,CAAA,CAAA,CAAA,CAAA,iCAAdf,EAAcgB,QAAdhB,EAAciB,UAAAC,WAFb,MAAM,CAAA,CAAA,SAEPlB,CAAc,GAAA",
+  "names": ["ClientsService", "constructor", "http", "getClients", "moreData", "endpoint", "environment", "baseUrl", "post", "observe", "pipe", "catchError", "err", "throwError", "\u0275\u0275inject", "HttpClient", "factory", "\u0275fac", "providedIn"]
+}

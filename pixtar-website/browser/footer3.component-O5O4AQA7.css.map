@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["src/app/new-features/new-comp/footer3/footer3.component.scss"],
+  "sourcesContent": [".footer {\n\tbackground-color: #1a1a1a;\n}\n.logo1 {\n\tfilter: invert(1);\n}\nli a {\n\tcolor: #fff;\n\ttext-decoration: none;\n}\n"],
+  "mappings": "AAAA,CAAA,OACC,iBAAA,QAED,CAAA,MACC,OAAA,OAAA,GAED,GAAA,EACC,MAAA,KACA,gBAAA",
+  "names": []
+}
