@@ -1,0 +1,2 @@
+import{a as c}from"./chunk-REXTACHJ.js";import{b as p}from"./chunk-TDT26AK5.js";import{H as n,L as s,i as e,t as i}from"./chunk-IBOFQJ67.js";var d=(()=>{class t{constructor(o){this.http=o,this.getClients=r=>{let a=c.baseUrl+"/api/logo/getalllogos";return this.http.post(a,r,{observe:"response"}).pipe(i(m=>e(m)))}}static{this.\u0275fac=function(r){return new(r||t)(s(p))}}static{this.\u0275prov=n({token:t,factory:t.\u0275fac,providedIn:"root"})}}return t})();export{d as a};
+//# sourceMappingURL=chunk-MPRUAXBR.js.map

@@ -50,7 +50,7 @@
 	"VIDEO": {
 		"VIDEO_CONTENT": {
 			"TITLE": "Play Showreel",
-			"MARQUE": "• WATCH REEL • WATCH REEL • WATCH REEL • WATCH REEL • "
+			"MARQUE": "• Watch Reel • Watch Reel • Watch Reel • Watch Reel • "
 		}
 	},
 	"BUTTON": {
@@ -632,26 +632,22 @@
 		}
 	},
 	"THEPAIN": {
-		"TITLE": "THE PAIN",
-		"SUBTITLE1": "The most expensive",
+		"BADGE": "THE problem",
+		"SUBTITLE1": "The most expensive ",
 		"SUBTITLE2": "Brand",
 		"SUBTITLE3": "is the cheap one.",
-		"DESCRIPTION1": "A business rarely struggles because the product is weak.",
-		"DESCRIPTION2": "It struggles because the brand makes a good product look ordinary. The deck undersells the company. The website loses the client before the call. The logo was made in a hurry, five years ago, by someone who didn’t ask enough questions.",
-		"DESCRIPTION3": "You know this already. It is why you are reading this page.",
-		"DESCRIPTION4": "Here is the part nobody says out loud: you can spend a little and get something that looks fine. Fine is the problem. Fine is not remembered. Fine does not let you raise your prices. Fine does not make a buyer choose you over the competitor charging half.",
-		"DESCRIPTION5": "We have watched businesses go elsewhere for a cheaper brand and return eighteen months later to build it properly — having paid twice, and lost eighteen months."
+		"DESCRIPTION1": "A business rarely struggles because the product is weak. It struggles because the brand makes a good product look ordinary. The deck undersells you. The site loses the client before the call.",
+		"DESCRIPTION2": "You can spend a little and get something that looks fine. Fine is the problem. Fine isn't remembered, and it won't let you raise your prices. ",
+		"DESCRIPTION3": "That's more true now than it was. Anyone can generate something that looks fine in an afternoon. Almost nobody can tell you whether it's right."
 	},
-	"GOLDEN_RATIO": {
-		"BADGE": "THE NUMBER BEHIND EVERY MARK WE DRAW",
+	"GOLDENRATIO":{
+		"BADGE": "The number behind every mark we draw",
 		"TITLE1": "The golden ratio",
-		"NUMBER": "1.618",
-		"TITLE2": "& craftsmanship",
-		"DESCRIPTION1": "Most logos are made by eye. Someone nudges shapes until it looks right and then it ships.",
-		"DESCRIPTION2": "We work differently. Every mark we design is constructed on the Golden Ratio — the proportion of 1 to 1.618 that governs the Parthenon, Renaissance painting, the shell of a nautilus, and a surprising number of the logos you could draw from memory this moment.",
-		"DESCRIPTION3": "It is not decoration and it is not mysticism. It is the reason some brands feel settled and permanent while others feel faintly wrong in a way people cannot name.",
-		"DESCRIPTION4": "Your customers will never know the mathematics is there.",
-		"DESCRIPTION5": "They will simply find your brand easier to trust."
+		"TITLE2": "1.618",
+		"TITLE3": "& craftsmanship",
+		"DESCRIPTION1":"Most logos are made by eye. Someone nudges shapes until it looks right, then it ships.",
+		"DESCRIPTION2":"We build every mark on the proportion behind the logos people trust on sight, from the Parthenon to the brands you recognise in a glance.",
+		"DESCRIPTION3":"That's why brands built this way get taken seriously faster."
 	},
 	"THEPOSITION": {
 		"BADGE": "The position",
@@ -696,15 +692,46 @@
 		}
 	},
 	"RECENTWORKS": {
-		"BADGE": "selected work",
-		"TITLE1": "Recent",
-		"TITLE2": "branding work",
-		"BUTTON": "book a 15 minute call",
+		"BADGE": "featured work",
+		"TITLE1": "Selected projects built with ",
+		"TITLE2": "ambitious brands ",
+		"TITLE3": "and bold teams",
+		"BUTTON": "Book a 15 minute call",
+
 		"PROJECTS": {
 			"PROJECT1": {
 				"TITLE": "Tablon",
-				"DESCRIPTION": "Rebranding with brand design guidance to position as a premium platform for investors and founders.",
+				"DESCRIPTION": "Rebranding with brand design guidance to position Tablon as a premium platform for investors and founders.",
 				"LISTS": ["Brand Identity", "Conceptual Logo Design"]
+			},
+
+			"PROJECT2": {
+				"TITLE": "BeYou",
+				"DESCRIPTION": "Dynamic digital visuals and identity crafted for modern and makeup consumers",
+				"LISTS": ["Brand Identity", "eCommerce Website | Magento"]
+			},
+			"PROJECT3": {
+				"TITLE": "D’NOUR Dubai",
+				"DESCRIPTION": "Branding and Modern eCommerce experience designed for clarity, speed, and engaging product storytelling.",
+				"LISTS": ["Comprehensive Branding", "Web Application"]
+			},
+
+			"PROJECT4": {
+				"TITLE": "Space X Fitness",
+				"DESCRIPTION": "Brand Identity for Advanced fitness center for busy individuals",
+				"LISTS": ["Brand Identity", "UI/UX"]
+			},
+
+			"PROJECT5": {
+				"TITLE": "Arcom",
+				"DESCRIPTION": "Minimal branding and custom eCommerce Website for a premium unique furniture brand",
+				"LISTS": ["Brand Identity", "Website Maintenance"]
+			},
+
+			"PROJECT6": {
+				"TITLE": "Urban Excellence",
+				"DESCRIPTION": "Premium Branding for Luxury real estate developer",
+				"LISTS": ["Brand Identity", "Visual Identity"]
 			}
 		}
 	},
@@ -806,9 +833,19 @@
 			"CATEGORY": "Strategy"
 		}
 	},
-	"LOGOS":{
+	"LOGOS": {
 		"BADGE": "our clients",
 		"TITLE1": "Trusted by design",
 		"TITLE2": "led businessess in UAE"
+	},
+	"BRANDAUDIT":{
+		"BADGE": "BRAND CLARITY AUDIT",
+		"TITLE1": "Not ready to rebuild?",
+		"TITLE2": "Start by",
+		"BARCELY": "finding",
+		"TITLE3": "out",
+		"TITLE4": "what’s broken.",
+		"DESCRIPTION1":"Two hours with our founder. What's working, what's costing you clients, what to fix first. Written plan in five days.",
+		"DESCRIPTION2":"Take it anywhere. Most people bring it back, so we credit the full AED 2,500 against your project within 30 days." 
 	}
 }

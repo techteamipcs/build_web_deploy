@@ -1,7 +1,0 @@
-{
-  "version": 3,
-  "sources": ["src/app/components/expensive-brand/expensive-brand.component.scss"],
-  "sourcesContent": [".label-badge {\n\tdisplay: inline-flex;\n\talign-items: center;\n\tbackground-color: #EEEDF0;\n\t// border: 1px solid #dadade;\n\tborder-radius: 50px;\n\tpadding: 6px 12px;\n\tmargin-bottom: 10px;\n  max-width: max-content;\n\tspan {\n\t\tletter-spacing: normal;\n\t\tcolor: #1d1d1f;\n\t}\n\n\t@media (max-width: 767px) {\n\t\tpadding: 8px 16px;\n\t\tmargin-bottom: 18px;\n\t}\n}"],
-  "mappings": "AAAA,CAAA,YACC,QAAA,YACA,YAAA,OACA,iBAAA,QAHD,cAKC,KALD,QAMC,IAAA,KACA,cAAA,KACC,UAAA,YACD,CATD,YASC,KACC,eAAA,OACA,MAAA,QAGD,OAAA,UAAA,OAdD,CAAA,YAAA,QAeE,IAAA,KACA,cAAA",
-  "names": []
-}
