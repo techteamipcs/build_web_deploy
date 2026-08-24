@@ -1,7 +1,0 @@
-{
-  "version": 3,
-  "sources": ["src/app/new-features/new-comp/brand-audit/brand-audit.component.scss"],
-  "sourcesContent": [".brand-audit-section {\n\tdisplay: flex;\n\t\tbackground: rgba(249, 248, 246, 1);\n\n\talign-items: center;\n\tpadding: 215px 0;\n\t@media (max-width: 768px) {\n\t\tpadding: 105px 0;\n\t}\n}\n\n.label-badge {\n\tdisplay: flex;\n\tgap: 10px;\n\talign-items: center;\n\n\tbackground-color: rgba(249, 248, 246, 1);\n\n\tborder: 1px solid #dadade;\n\n\tbox-shadow:\n\t\t0 24px 40px rgba(0, 0, 0, 0.08),\n\t\t0 4px 6px rgba(0, 0, 0, 0.04);\n\n\tborder-radius: 50px;\n\n\tpadding: 6px 12px;\n\tmargin-bottom: 10px;\n\n\tmax-width: max-content;\n\n\tspan {\n\t\tcolor: #1d1d1f;\n\tletter-spacing: 10%;\n\n\n\t}\n\t.dot {\n\twidth: 8px;\n\theight: 8px;\n\tborder-radius: 50%;\n\n\tbackground: rgba(221, 139, 109, 1);\n\n\tbox-shadow: 0 0 5px rgba(221, 139, 109, 1);\n}\n\n\t@media (max-width: 767px) {\n\t\tpadding: 8px 16px;\n\t\tmargin-bottom: 18px;\n\t}\n}"],
-  "mappings": "AAAA,CAAA,oBACC,QAAA,KACC,WAAA,QAED,YAAA,OAJD,QAKC,MAAA,EACA,OAAA,UAAA,OAND,CAAA,oBAAA,QAOE,MAAA,GAIF,CAAA,YACC,QAAA,KACA,IAAA,KACA,YAAA,OAEA,iBAAA,QAEA,OAAA,IAAA,MAAA,QAEA,WACC,EAAA,KAAA,KAAA,SAAA,CAAA,EAAA,IAAA,IAAA,UArBF,cAwBC,KAxBD,QA0BC,IAAA,KACA,cAAA,KAEA,UAAA,YAEA,CApBD,YAoBC,KACC,MAAA,QACD,eAAA,IAIA,CA1BD,YA0BC,CAAA,IACA,MAAA,IACA,OAAA,IAvCD,cAwCC,IAEA,WAAA,QAEA,WAAA,EAAA,EAAA,IAAA,QAGA,OAAA,UAAA,OApCD,CAAA,YAXA,QAgDE,IAAA,KACA,cAAA",
-  "names": []
-}

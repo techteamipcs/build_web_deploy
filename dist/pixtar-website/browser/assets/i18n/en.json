@@ -6,7 +6,8 @@
 		"SUBTITLE": "We build brands that win bigger clients — in 21 days, never from a template.",
 		"PRIMARY_CTA": "Get Your Free Website Audit",
 		"SECONDARY_CTA": "See Our Work",
-		"TRUST_TEXT": "Trusted By Top Business Leaders",
+		"TRUST_TEXT1": "Trusted By",
+		"TRUST_TEXT2": "Top Business Leaders",
 		"STATS_NUMBER": "60+ Brands Built",
 		"STATS_TEXT": "· UAE, Saudi Arabia, Europe, North America"
 	},
@@ -77,7 +78,8 @@
 		"ECOMMERCE_SOLUTIONS": "Ecommerce Solutions",
 		"CREATIVE_AGENCY_BASED_IN_DUBAI": "Creative agency based in Dubai",
 		"UAE": "United Arab Emirates",
-		"CONTACT": "Contact"
+		"CONTACT": "Contact",
+		"BOOKACALL": "Book a call"
 	},
 	"ABOUT": {
 		"AT_PIXTAR_WE_BELIEVE": "At Pixtar, we believe",
@@ -245,8 +247,17 @@
 		"TITLE2": "into brands"
 	},
 	"WORKS": {
-		"RECENT_WORK": "Recent Works",
-		"BOOK_A_CONSULTATION": "Book A Consultation"
+		"BADGE": "SELECTED WORK",
+		"RECENT": "Recent",
+		"BOOK_A_CONSULTATION": "Book a 15-minute call"
+	},
+	"RECENTWORK": {
+		"TECH_BADGE": "TECHNOLOGY",
+		"BUILT_ON": "Built on",
+		"BADGE": "SHOWCASE WORK",
+		"TITLE1": "Recent",
+		"TITLE2": "websites we made live.",
+		"VIEW_ALL": "View all work"
 	},
 	"PACKAGES": {
 		"SLOTS_AVAILABLE": "Slots available",
@@ -640,54 +651,184 @@
 		"DESCRIPTION2": "You can spend a little and get something that looks fine. Fine is the problem. Fine isn't remembered, and it won't let you raise your prices. ",
 		"DESCRIPTION3": "That's more true now than it was. Anyone can generate something that looks fine in an afternoon. Almost nobody can tell you whether it's right."
 	},
-	"GOLDENRATIO":{
+	"GOLDENRATIO": {
 		"BADGE": "The number behind every mark we draw",
 		"TITLE1": "The golden ratio",
 		"TITLE2": "1.618",
 		"TITLE3": "& craftsmanship",
-		"DESCRIPTION1":"Most logos are made by eye. Someone nudges shapes until it looks right, then it ships.",
-		"DESCRIPTION2":"We build every mark on the proportion behind the logos people trust on sight, from the Parthenon to the brands you recognise in a glance.",
-		"DESCRIPTION3":"That's why brands built this way get taken seriously faster."
+		"DESCRIPTION1": "Most logos are made by eye. Someone nudges shapes until it looks right, then it ships.",
+		"DESCRIPTION2": "We build every mark on the proportion behind the logos people trust on sight, from the Parthenon to the brands you recognise in a glance.",
+		"DESCRIPTION3": "That's why brands built this way get taken seriously faster.",
+		"CTA": "See how we build it"
 	},
 	"THEPOSITION": {
-		"BADGE": "The position",
-		"TITLE1": "Your",
-		"BARCELY": "Brand",
-		"TITLE2": "isn't your logo.",
-		"TITLE3": "It's how the world sees you",
-		"DESCRIPTION1": "A brand is what a client feels before they've spoken to you. The portfolio, the site, the first reply to their email.",
-		"DESCRIPTION2": "We build the whole thing. The strategy underneath it, the identity on top of it, and the rules that keep it consistent everywhere it appears."
+		"BRANDING": {
+			"BADGE": "The position",
+			"TITLE1": "Your",
+			"BARCELY": "Brand",
+			"TITLE2": "isn't your ",
+			"TITLE3": "logo.",
+			"TITLE4": "It's how the ",
+			"TITLE5": "world ",
+			"TITLE6": "sees you",
+			"DESCRIPTION1": "A brand is what a client feels before they've spoken to you. The portfolio, the site, the first reply to their email.",
+			"DESCRIPTION2": "We build the whole thing. The strategy underneath it, the identity on top of it, and the rules that keep it consistent everywhere it appears."
+		},
+
+		"GRAPHICS": {
+			"BADGE": "The position",
+			"TITLE1": "Hiring is",
+			"BARCELY": "Expensive. Expensive",
+			"TITLE5": "freelancers disappear ",
+			"DESCRIPTION1": "A mid level designer in Dubai costs around AED 12,000 a month before visa, software and management. You are paying for forty hours whether you need them or not.",
+			"DESCRIPTION2": "Freelancers cost less and work well until the week you need something urgently and they are unavailable. Every new one has to learn your brand from scratch, and the work drifts a little further from the guidelines each time.",
+			"DESCRIPTION3": "We already know your brand. We are here every month. Nothing drifts."
+		},
+		"WEBSITE": {
+			"BADGE": "The position",
+			"TITLE1": "Most",
+			"BARCELY": "websites",
+			"TITLE2": "are furniture.",
+			"TITLE3": "Yours should be",
+			"BARCELY2": "Staff.",
+			"DESCRIPTION1": "A website isn't a brochure you leave online. It's the first person your client meets, working every hour you're not.",
+			"DESCRIPTION2": "Most sites lose the client quietly. Slow to load. Hard to read on a phone. Beautiful on the homepage and abandoned by the third click. Nobody complains. They just leave.",
+			"DESCRIPTION3": "We build sites that hold attention long enough to earn the enquiry."
+		},
+		"ECOMMERCE": {
+			"BADGE": "The position",
+			"TITLE1": "Most stores lose the",
+			"BARCELY": "sale",
+			"TITLE2": "at checkout.",
+			"DESCRIPTION1": "Not on the product page. Not on price. At checkout, when the payment method they use isn't there, or the Arabic is machine translated, or the delivery options don't cover their emirate.",
+			"DESCRIPTION2": "Around a quarter of UAE orders are still cash on delivery. A large share of buyers expect Tabby or Tamara. If your store was built for a European market and shipped here, it's leaking revenue in ways your analytics won't show you.",
+			"DESCRIPTION3": "We build stores for this region, because we have built them here before and we know where they break."
+		}
 	},
 	"WHATYOUGET": {
-		"BADGE": "WHAT YOU GET",
-		"TITLE1": "Everything your ",
-		"TITLE2": "brand",
-		"BARCELY": "touches",
-		"LIST": {
-			"STRATEGY": {
-				"NUMBER": "1",
-				"TITLE": "Strategy",
-				"DESCRIPTION": "Positioning, audience, competitor mapping, brand story, naming where it's needed."
-			},
-			"IDENTITY": {
-				"NUMBER": "2",
-				"TITLE": "Identity",
-				"DESCRIPTION": "Primary logo and variations, colour system, typography, iconography, graphic language."
-			},
-			"APPLICATION": {
-				"NUMBER": "3",
-				"TITLE": "Application",
-				"DESCRIPTION": "Stationery, packaging, social templates, signage, presentation templates. Whatever your business actually uses."
-			},
-			"GUIDELINES": {
-				"NUMBER": "4",
-				"TITLE": "Guidelines",
-				"DESCRIPTION": "A brand book your team and any future agency can follow. Usage rules, spacing, do's and don'ts, file structure."
-			},
-			"OWNERSHIP": {
-				"NUMBER": "5",
-				"TITLE": "Ownership",
-				"DESCRIPTION": "Every source file on final payment. Illustrator, Photoshop, fonts. No licensing. No dependency on us."
+		"BRANDING": {
+			"BADGE": "WHAT YOU GET",
+			"TITLE1": "Everything your ",
+			"TITLE2": "brand",
+			"BARCELY": "touches",
+			"LIST": {
+				"STRATEGY": {
+					"NUMBER": "1",
+					"TITLE": "Strategy",
+					"DESCRIPTION": "Positioning, audience, competitor mapping, brand story, naming where it's needed."
+				},
+				"IDENTITY": {
+					"NUMBER": "2",
+					"TITLE": "Identity",
+					"DESCRIPTION": "Primary logo and variations, colour system, typography, iconography, graphic language."
+				},
+				"APPLICATION": {
+					"NUMBER": "3",
+					"TITLE": "Application",
+					"DESCRIPTION": "Stationery, packaging, social templates, signage, presentation templates. Whatever your business actually uses."
+				},
+				"GUIDELINES": {
+					"NUMBER": "4",
+					"TITLE": "Guidelines",
+					"DESCRIPTION": "A brand book your team and any future agency can follow. Usage rules, spacing, do's and don'ts, file structure."
+				},
+				"OWNERSHIP": {
+					"NUMBER": "5",
+					"TITLE": "Ownership",
+					"DESCRIPTION": "Every source file on final payment. Illustrator, Photoshop, fonts. No licensing. No dependency on us."
+				}
+			}
+		},
+
+		"GRAPHICS": {
+			"BADGE": "WHAT YOU GET",
+
+			"TITLE1": "Whatever your",
+			"BARCELY": "brand",
+			"TITLE2": "needs",
+			"TITLE3": "this month.",
+
+			"LIST": {
+				"ITEM1": {
+					"NUMBER": "1",
+					"TITLE": "Social",
+					"DESCRIPTION": "Campaign creative, post templates, stories, launch assets.",
+					"TAGS": ["Instagram", "Campaigns", "Templates"]
+				},
+
+				"ITEM2": {
+					"NUMBER": "2",
+					"TITLE": "Print",
+					"DESCRIPTION": "Catalogues, brochures, menus, packaging, signage.",
+					"TAGS": ["Catalogues", "Packaging", "Signage"]
+				},
+
+				"ITEM3": {
+					"NUMBER": "3",
+					"TITLE": "Presentations",
+					"DESCRIPTION": "Pitch decks, investor decks, sales collateral.",
+					"TAGS": ["Decks", "Proposals", "Reports"]
+				},
+
+				"ITEM4": {
+					"NUMBER": "4",
+					"TITLE": "Digital",
+					"DESCRIPTION": "Website banners, email templates, landing page graphics, ad creative.",
+					"TAGS": ["Banners", "Email", "Ads"]
+				},
+
+				"ITEM5": {
+					"NUMBER": "5",
+					"TITLE": "Brand Assets",
+					"DESCRIPTION": "New icons, illustrations, patterns and templates as the brand grows.",
+					"TAGS": ["Icons", "Illustrations", "Patterns"]
+				},
+
+				"ITEM6": {
+					"NUMBER": "6",
+					"TITLE": "Refreshes",
+					"DESCRIPTION": "Seasonal updates, campaign variations, format resizes.",
+					"TAGS": ["Seasonal", "Resizes", "Variations"]
+				}
+			}
+		},
+		"ECOMMERCE": {
+			"BADGE": "WHAT YOU GET",
+			"TITLE1": "Everything a ",
+			"BARCELY": "store",
+			"TITLE2": "needs to ",
+			"TITLE3": "sell.",
+			"LIST": {
+				"STOREFRONT": {
+					"NUMBER": "1",
+					"TITLE": "Storefront",
+					"DESCRIPTION": "Custom designed, not a bought theme. Product pages, collections and navigation built around how your customers actually shop."
+				},
+				"PAYMENT": {
+					"NUMBER": "2",
+					"TITLE": "Payment",
+					"DESCRIPTION": "Telr, PayTabs, Stripe, Tabby, Tamara and cash on delivery. Configured, tested and live before launch."
+				},
+				"LANGUAGE": {
+					"NUMBER": "3",
+					"TITLE": "Language",
+					"DESCRIPTION": "Arabic and English, properly. Right to left layouts built, not flipped. Human translation, not machine."
+				},
+				"LOGISTICS": {
+					"NUMBER": "4",
+					"TITLE": "Logistics",
+					"DESCRIPTION": "Shipping rules by emirate, delivery windows, courier integration, returns handling."
+				},
+				"OPERATIONS": {
+					"NUMBER": "5",
+					"TITLE": "Operations",
+					"DESCRIPTION": "Inventory, orders and customer data connected to the tools your team already uses."
+				},
+				"GROWTH": {
+					"NUMBER": "6",
+					"TITLE": "Growth",
+					"DESCRIPTION": "Analytics, abandoned cart recovery, product feeds for Google and Meta, technical SEO built in."
+				}
 			}
 		}
 	},
@@ -753,7 +894,8 @@
 				"DESCRIPTION": "The decisions behind the logo, what you stand for, who you’re for and what you’ll never look like. Built to hold for a decade.",
 				"PRICE": "From AED 18,000",
 				"DURATION": "14–21 days",
-				"TAGS": ["Positioning", "Visual Identity", "Design System"]
+				"TAGS": ["Positioning", "Visual Identity", "Design System"],
+				"CTA": "Explore Branding"
 			},
 
 			"BRAND_GUARDIAN": {
@@ -762,7 +904,8 @@
 				"DESCRIPTION": "Design every week, not once a year. An in-house team without the cost.",
 				"PRICE": "From AED 6,000 / month",
 				"DURATION": "14–21 days",
-				"TAGS": ["Landing Pages", "Banners", "Decks"]
+				"TAGS": ["Landing Pages", "Banners", "Decks"],
+				"CTA": "Meet Your Brand Guardian"
 			},
 
 			"CUSTOM_WEBSITES": {
@@ -770,19 +913,22 @@
 				"DESCRIPTION": "React, Angular, Node, Magento bespoke, no page builders.",
 				"PRICE": "From AED 22,000",
 				"DURATION": "14–21 days",
-				"TAGS": ["Content Strategy", "Creative Production", "Campaign Management"]
+				"TAGS": ["Content Strategy", "Creative Production", "Campaign Management"],
+				"CTA": "Build Your Website"
 			},
 
 			"ECOMMERCE": {
 				"TITLE": "eCommerce Website Development",
 				"DESCRIPTION": "Launch a Custom-built Online Store English & Arabic, that engages, converts and grows.",
-				"TAGS": ["Shopify", "Magento", "Custom Development"]
+				"TAGS": ["Shopify", "Magento", "Custom Development"],
+				"CTA": "Build Your Store"
 			},
 
 			"MAINTENANCE": {
 				"TITLE": "Website Maintenance & Support",
 				"DESCRIPTION": "Backups, security, updates, uptime monitoring. For websites, eCommerce stores and web applications.",
-				"TAGS": ["Regular Content", "Performance", "Security"]
+				"TAGS": ["Regular Content", "Performance", "Security"],
+				"CTA": "Keep It Running"
 			}
 		}
 	},
@@ -836,16 +982,269 @@
 	"LOGOS": {
 		"BADGE": "our clients",
 		"TITLE1": "Trusted by design",
-		"TITLE2": "led businessess in UAE"
+		"TITLE2": "led ",
+		"TITLE3": "businessess in UAE"
 	},
-	"BRANDAUDIT":{
+	"BRANDAUDIT": {
 		"BADGE": "BRAND CLARITY AUDIT",
 		"TITLE1": "Not ready to rebuild?",
 		"TITLE2": "Start by",
 		"BARCELY": "finding",
 		"TITLE3": "out",
 		"TITLE4": "what’s broken.",
-		"DESCRIPTION1":"Two hours with our founder. What's working, what's costing you clients, what to fix first. Written plan in five days.",
-		"DESCRIPTION2":"Take it anywhere. Most people bring it back, so we credit the full AED 2,500 against your project within 30 days." 
+		"DESCRIPTION1": "Two hours with our founder. What's working, what's costing you clients, what to fix first. Written plan in five days.",
+		"DESCRIPTION2": "Take it anywhere. Most people bring it back, so we credit the full AED 2,500 against your project within 30 days."
+	},
+	"SERVICEAUDIT": {
+		"BRANDING": {
+			"BADGE": "BRAND CLARITY AUDIT",
+			"TITLE1": "Not sure from where to start?",
+			"TITLE2": "Start by",
+			"BARCELY": "finding",
+			"TITLE3": "out",
+			"TITLE4": "what’s broken.",
+			"DESCRIPTIONS": [
+				"Two hours with our founder. What's working, what's costing you clients, what to fix first. Written plan in five days.",
+				"Take it anywhere. Most people bring it back, so we credit the full AED 2,500 against your project within 30 days."
+			],
+			"BUTTON": "Book Your Brand Clarity Audit — AED 2,500"
+		},
+		"WEBSITE": {
+			"BADGE": "FREE WEBSITE AUDIT",
+			"TITLE1": "Not sure your website is the problem?",
+			"TITLE2": "",
+			"BARCELY": "find",
+			"TITLE3": "out in three days.",
+			"DESCRIPTIONS": [
+				"We check the things that quietly cost you clients. Load speed. Mobile layout. Whether your pages can be found. Where visitors leave.",
+				"You get a written report with what is wrong, what it is costing you, and what to fix first. No call required unless you want one.",
+				"Take it to any agency you like."
+			],
+			"BUTTON": "Get Free Live Website Audit"
+		},
+		"GRAPHICS": {
+			"BADGE": "FREE DESIGN AUDIT",
+			"TITLE1": "Not sure your designs are landing?",
+			"TITLE2": "",
+			"BARCELY": "find",
+			"TITLE3": "out what's holding them back.",
+			"DESCRIPTIONS": [
+				"We check the things that quietly cost you attention. Visual consistency. Brand alignment. Whether your designs actually convert.",
+				"You get a written report with what's wrong, what it's costing you, and what to fix first. No call required unless you want one.",
+				"Take it to any studio you like."
+			],
+			"BUTTON": "Get Free Design Audit"
+		},
+		"ECOMMERCE": {
+    "BADGE": "FREE STORE AUDIT",
+    "TITLE1": "Getting traffic",
+    "TITLE2": "but not",
+    "BARCELY": "Orders?",
+    "TITLE3": "We will tell you where it is",
+    "TITLE4": "leaking.",
+    "DESCRIPTIONS": [
+        "We go through your store the way a customer does. Payment methods. Checkout on a phone. Load speed. Where people abandon and why.",
+        "You get a written report in three days with what is broken, roughly what it is costing you, and what to fix first. Take it to any agency you like."
+    ],
+    "BUTTON": "Request Your Free Store Audit"
+}
+	},
+	"TEMPLATEQUESTION": {
+		"WEBSITE": {
+			"BADGE": "THE TEMPLATE QUESTION",
+			"TITLE1": "Why not just use a",
+			"BOLD": "Template",
+			"TITLE2": "for my website?",
+			"DESCRIPTIONS": [
+				"You can. Plenty of businesses do, and for some of them it's the right call.",
+				"Here's what you're accepting. A layout thousands of other businesses are already using. Code you didn't ask for, slowing the site down. Design decisions made by someone who has never seen your business.",
+				"Templates are built to fit everyone. That's the point of them, and it's also the problem.",
+				"If your website is where clients decide whether you're serious, it should be the one thing that doesn't look borrowed."
+			]
+		}
+	},
+	"PLATFORMS": {
+		"ECOMMERCE": {
+			"BADGE": "PLATFORMS",
+			"TITLE_PREFIX": "What you get on",
+			"ITEMS": {
+				"SHOPIFY": {
+					"LABEL": "Shopify",
+					"DESCRIPTION": "Fastest to launch, lowest maintenance, strongest app ecosystem. Right for most brands under a few thousand SKUs.",
+					"FEATURES": [
+						"Custom theme, never a bought one",
+						"Tabby, Tamara, Telr and PayTabs configured",
+						"Live in four weeks",
+						"Your team runs it without us"
+					]
+				},
+				"WOOCOMMERCE": {
+					"LABEL": "WooCommerce",
+					"DESCRIPTION": "Full control on WordPress, lowest platform cost, endless plugins. Right for content-heavy brands who want to own their stack.",
+					"FEATURES": [
+						"Custom theme built on your existing WordPress setup",
+						"Tabby, Tamara, Telr and PayTabs configured",
+						"Live in five to six weeks",
+						"Your team runs it without us"
+					]
+				},
+				"MAGENTO": {
+					"LABEL": "Magento",
+					"DESCRIPTION": "Built for scale, complex catalogs and multi-store setups. Right for brands running thousands of SKUs across regions.",
+					"FEATURES": [
+						"Custom theme, never a bought one",
+						"Tabby, Tamara, Telr and PayTabs configured",
+						"Live in eight to ten weeks",
+						"Your team runs it without us"
+					]
+				},
+				"BIGCOMMERCE": {
+					"LABEL": "BigCommerce",
+					"DESCRIPTION": "Headless-ready with strong API flexibility for high-growth brands, without the Magento overhead.",
+					"FEATURES": [
+						"Custom theme, never a bought one",
+						"Tabby, Tamara, Telr and PayTabs configured",
+						"Live in five weeks",
+						"Your team runs it without us"
+					]
+				}
+			}
+		}
+	},
+	"TESTIMONIALS": {
+		"PROJECTS_DELIVERED": "Projects Delivered",
+		"INDUSTRIES_IMPACTED": "Industries Impacted",
+		"COMBINED_EXPERIENCE": "Years of Combined Experience"
+	},
+	"AI": {
+		"BADGE": "AI",
+		"TITLE1": "we use AI.",
+		"TITLE2": "we don't let it",
+		"TITLE3": "decide.",
+		"DESCRIPTION1": "AI is in our production process. It makes us faster and that speed is why a brand identity takes 21 days here, instead of the three months it takes elsewhere.",
+		"DESCRIPTION2": "What it doesn't do is choose. It has no opinion on which direction is right for your market, no reason to argue with you, and nothing at stake if it's wrong.",
+		"DESCRIPTION3": "We have all three."
+	},
+	"SERVEGLOBAL": {
+		"BADGE": "WE SERVE GLOBALLY",
+		"TITLE1": "Built in",
+		"TITLE2": "Dubai",
+		"TITLE3": ". working",
+		"TITLE4": "in six time zones",
+		"DESCRIPTION": "A brand of this standard runs $45,000 in New York and takes four months. We deliver it in 21 days, at Dubai rates, in your time zone.",
+		"ALT": "Pixtar serves clients globally"
+	},
+	"DISCOVERY": {
+		"BADGE": "Discovery",
+		"TITLE1": "Tell us what",
+		"TITLE2": "you're",
+		"TITLE3": "Building.",
+		"DESCRIPTION": "Fifteen minutes. No deck, no obligation.",
+		"CTA1": "Book A 15-Minute Call",
+		"CTA2": "WhatsApp Us →"
+	},
+	"SERVICESTAGES": {
+		"BADGE": "How It Works",
+		"TITLE1": "Five stages.",
+		"TITLE2": "Twenty one days.",
+		"SUBTITLE": "21 days, start to handover.",
+		"LIST": {
+			"DISCOVER": {
+				"TITLE": "Discover",
+				"DESCRIPTION": "We interview you, study your market and find the gap you can own.",
+				"DURATION": "2 days"
+			},
+			"DEFINE": {
+				"TITLE": "Define",
+				"DESCRIPTION": "We lock the strategy, the positioning and the story your brand will tell.",
+				"DURATION": "2 days"
+			},
+			"DESIGN": {
+				"TITLE": "Design",
+				"DESCRIPTION": "We design the identity system — logo, colour, type — and refine it with you.",
+				"DURATION": "6 days"
+			},
+			"DEVELOP": {
+				"TITLE": "Develop",
+				"DESCRIPTION": "We build every asset and touchpoint, from business cards to your website.",
+				"DURATION": "9 days"
+			},
+			"DELIVER": {
+				"TITLE": "Deliver",
+				"DESCRIPTION": "We hand over a finished brand, ready to launch and win clients.",
+				"DURATION": "2 days"
+			}
+		},
+		"AFTERLAUNCH": {
+			"BADGE": "After Launch",
+			"TITLE": "We don't disappear at handover.",
+			"DESCRIPTION1": "Every brand we build comes with a monthly graphic design plan. Backups, security patches, updates and uptime monitoring, from AED 900 a month.",
+			"DESCRIPTION2": "A site nobody maintains is a site that breaks quietly, usually at the worst moment.",
+			"CTA": "Explore Brand Identities"
+		}
+	},
+	"TURNAROUND": {
+		"BADGE": "Turnaround",
+		"TITLE1": "What counts as a",
+		"TITLE2": "request",
+		"INCLUDED_LABEL": "Included",
+		"INCLUDED": {
+			"ITEM1": "A social post or a set of variations",
+			"ITEM2": "A banner or ad set",
+			"ITEM3": "A brochure page or spread",
+			"ITEM4": "A presentation slide set",
+			"ITEM5": "Resizing existing work for a new format",
+			"ITEM6": "Seasonal or campaign variations"
+		},
+		"QUOTED_LABEL": "Quoted separately",
+		"QUOTED": {
+			"ITEM1": "A full brand identity",
+			"ITEM2": "A website design",
+			"ITEM3": "A photo or video shoot",
+			"ITEM4": "Print production and delivery"
+		},
+		"NOTE": "Turnaround starts when we have the brief and the assets. Most delays are waiting on copy or product images."
+	},
+	"COSTCARD": {
+		"TITLE1": "What it",
+		"TITLE2": "costs.",
+		"SUBTITLE": "Three ways in. Every engagement is scoped to the business, not the deliverable.",
+		"MOSTCLIENTS": "Most Clients",
+		"WHATS_INCLUDED": "What's included",
+		"GET_STARTED": "Get Started",
+		"BOOK_CALL": "Or Book A Call",
+		"MESSAGE": "If You're Not Proud To Put This In Front Of Your Best Client, We Keep Working Until You Are.",
+
+		"PLANS": {
+			"ESSENTIAL": {
+				"AUDIENCE": "You look like a real brand",
+				"PROBLEM_TITLE": "The problem this solves",
+				"PROBLEM": "Your business is good. Your brand looks like it was made in a hurry and clients are pricing you accordingly.",
+				"SOLUTION_TITLE": "The problem this solves",
+				"SOLUTION": "A clear visual identity that makes your business look established, credible and ready to grow."
+			},
+			"SIGNATURE": {
+				"AUDIENCE": "You look like the obvious choice in your category.",
+				"PROBLEM_TITLE": "The problem this solves",
+				"PROBLEM": "You look professional, but so does everyone else. Clients compare you on price because nothing tells them why you are different.",
+				"SOLUTION_TITLE": "The problem this solves",
+				"SOLUTION": "A strategic brand system that positions your business clearly and gives customers a reason to choose you."
+			},
+			"PRESTIGE": {
+				"AUDIENCE": "You look like the brand others copy.",
+				"PROBLEM_TITLE": "The problem this solves",
+				"PROBLEM": "You are growing into more markets, more teams or more products, but your brand has not grown with you.",
+				"SOLUTION_TITLE": "The problem this solves",
+				"SOLUTION": "A complete brand system built for scale, consistency and ambitious growth."
+			}
+		},
+
+		"ENTERPRISE": {
+			"BADGE": "Enterprise",
+			"TITLE": "A custom plan for your organization.",
+			"DESCRIPTION": "Multi brand groups, retail chains and international rollouts. Programmes typically run from AED 150,000.",
+			"DESCRIPTION2": "Our longest client relationships run for eight years.",
+			"CTA": "Talk To Us About The Scope"
+		}
 	}
 }
