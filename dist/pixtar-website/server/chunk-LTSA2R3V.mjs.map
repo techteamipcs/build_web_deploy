@@ -1,7 +1,0 @@
-{
-  "version": 3,
-  "sources": ["src/environments/environment.staging.ts"],
-  "sourcesContent": ["export const environment = {\n  production: true,\n  baseUrl: 'https://www.pixtar.ae',\n  url: 'https://build.pixtar.ae',\n  calendlyUrl: 'https://calendly.com/pixtar/explore',\n};\n"],
-  "mappings": ";AAAO,IAAMA,EAAc,CACzBC,WAAY,GACZC,QAAS,wBACTC,IAAK,0BACLC,YAAa",
-  "names": ["environment", "production", "baseUrl", "url", "calendlyUrl"]
-}
