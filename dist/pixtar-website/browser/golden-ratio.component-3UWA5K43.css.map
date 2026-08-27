@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["src/app/components/golden-ratio/golden-ratio.component.scss"],
+  "sourcesContent": [".diagram-image {\n\twidth: 100%;\n\theight: 100%;\n\tobject-fit: contain;\n\tdisplay: block;\n}\n\n\n.gratio{\nbackground: rgba(249, 248, 246, 1);\n\n}\n.gap20{\n    gap: 140px;\n\n}"],
+  "mappings": "AAAA,CAAA,cACC,MAAA,KACA,OAAA,KACA,WAAA,QACA,QAAA,MAID,CAAA,OACA,WAAA,QAGA,CAAA,MACI,IAAA",
+  "names": []
+}

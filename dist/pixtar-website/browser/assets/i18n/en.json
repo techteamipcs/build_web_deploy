@@ -52,7 +52,7 @@
 	"VIDEO": {
 		"VIDEO_CONTENT": {
 			"TITLE": "Play Showreel",
-			"MARQUE": "• Watch Reel • Watch Reel • Watch Reel • Watch Reel • "
+			"MARQUE": " • Watch Reel • Watch Reel • Watch Reel • Watch Reel"
 		}
 	},
 	"BUTTON": {
@@ -77,6 +77,8 @@
 		"WEBSITE": "Website",
 		"ECOMMERCE": "Ecommerce",
 		"ECOMMERCE_SOLUTIONS": "Ecommerce Solutions",
+		"MAINTENANCE":"website maintenance",
+		"APPLICATION":"website application",
 		"CREATIVE_AGENCY_BASED_IN_DUBAI": "Creative agency based in Dubai",
 		"UAE": "United Arab Emirates",
 		"CONTACT": "Contact",
@@ -139,6 +141,7 @@
 		"WE_BLEND_ART_WITH_STRATEGY_TO_CREATE_BESPOKE_BRANDING_SOLUTIONS": "we blend art with strategy to create bespoke branding solutions that",
 		"MAKE_YOUR_STORY_UNFORGETTABLE": "make your story unforgettable",
 		"CHOOSE_SECTION": {
+			"BADGE": "OUR PROMISE",
 			"why_choose_pixtar": "Why Choose Pixtar?",
 			"crafted_with_the_golden_ratio": "Crafted With The Golden Ratio",
 			"Desc1": "Everything we design follows the timeless principles of the golden ratio — creating perfect harmony between form and function.",
@@ -654,7 +657,7 @@
 	},
 	"GOLDENRATIO": {
 		"BADGE": "The number behind every mark we draw",
-		"TITLE1": "The golden ratio",
+		"TITLE1": "The Golden Ratio",
 		"TITLE2": "1.618",
 		"TITLE3": "& craftsmanship",
 		"DESCRIPTION1": "Most logos are made by eye. Someone nudges shapes until it looks right, then it ships.",
@@ -1125,7 +1128,7 @@
 				"LISTS": ["Brand Identity", "UI/UX"]
 			},
 			"PROJECT5": {
-				"TITLE": "Arcom",
+				"TITLE": "Arovan",
 				"DESCRIPTION": "Minimal branding and custom eCommerce Website for a premium unique furniture brand",
 				"LISTS": ["Brand Identity", "Website Maintenance"]
 			},
@@ -1475,9 +1478,9 @@
 	},
 	"AI": {
 		"BADGE": "AI",
-		"TITLE1": "we use AI.",
-		"TITLE2": "we don't let it",
-		"TITLE3": "decide.",
+		"TITLE1": "We use AI.",
+		"TITLE2": "We don't let it",
+		"TITLE3": "Decide.",
 		"DESCRIPTION1": "AI is in our production process. It makes us faster and that speed is why a brand identity takes 21 days here, instead of the three months it takes elsewhere.",
 		"DESCRIPTION2": "What it doesn't do is choose. It has no opinion on which direction is right for your market, no reason to argue with you, and nothing at stake if it's wrong.",
 		"DESCRIPTION3": "We have all three."
@@ -1498,46 +1501,238 @@
 		"TITLE3": "Building.",
 		"DESCRIPTION": "Fifteen minutes. No deck, no obligation.",
 		"CTA1": "Book A 15-Minute Call",
-		"CTA2": "WhatsApp Us →"
+		"CTA2": "WhatsApp Us"
 	},
 	"SERVICESTAGES": {
-		"BADGE": "How It Works",
-		"TITLE1": "Five stages.",
-		"TITLE2": "Twenty one days.",
-		"SUBTITLE": "21 days, start to handover.",
-		"LIST": {
-			"DISCOVER": {
-				"TITLE": "Discover",
-				"DESCRIPTION": "We interview you, study your market and find the gap you can own.",
-				"DURATION": "2 days"
+		"BRANDING": {
+			"BADGE": "How It Works",
+			"TITLE1": "Five stages.",
+			"TITLE2": "Twenty one days.",
+			"SUBTITLE": "21 days, start to handover.",
+			"LIST": {
+				"ONE": {
+					"TITLE": "Discover",
+					"DESCRIPTION": "We interview you, study your market and find the gap you can own.",
+					"DURATION": "2 days"
+				},
+				"TWO": {
+					"TITLE": "Define",
+					"DESCRIPTION": "We lock the strategy, the positioning and the story your brand will tell.",
+					"DURATION": "2 days"
+				},
+				"THREE": {
+					"TITLE": "Design",
+					"DESCRIPTION": "We design the identity system — logo, colour, type — and refine it with you.",
+					"DURATION": "6 days"
+				} 
 			},
-			"DEFINE": {
-				"TITLE": "Define",
-				"DESCRIPTION": "We lock the strategy, the positioning and the story your brand will tell.",
-				"DURATION": "2 days"
-			},
-			"DESIGN": {
-				"TITLE": "Design",
-				"DESCRIPTION": "We design the identity system — logo, colour, type — and refine it with you.",
-				"DURATION": "6 days"
-			},
-			"DEVELOP": {
-				"TITLE": "Develop",
-				"DESCRIPTION": "We build every asset and touchpoint, from business cards to your website.",
-				"DURATION": "9 days"
-			},
-			"DELIVER": {
-				"TITLE": "Deliver",
-				"DESCRIPTION": "We hand over a finished brand, ready to launch and win clients.",
-				"DURATION": "2 days"
+			"AFTERLAUNCH": {
+				"BADGE": "After Launch",
+				"TITLE": "We don't disappear at handover.",
+				"DESCRIPTION1": "Every brand we build comes with a monthly graphic design plan. Backups, security patches, updates and uptime monitoring, from AED 900 a month.",
+				"DESCRIPTION2": "A site nobody maintains is a site that breaks quietly, usually at the worst moment.",
+				"CTA": "Explore Brand Guardian"
 			}
 		},
-		"AFTERLAUNCH": {
-			"BADGE": "After Launch",
-			"TITLE": "We don't disappear at handover.",
-			"DESCRIPTION1": "Every brand we build comes with a monthly graphic design plan. Backups, security patches, updates and uptime monitoring, from AED 900 a month.",
-			"DESCRIPTION2": "A site nobody maintains is a site that breaks quietly, usually at the worst moment.",
-			"CTA": "Explore Brand Identities"
+		"WEBSITE": {
+			"BADGE": "How It Works",
+			"TITLE1": "Five stages.",
+			"TITLE2": "Twenty one days.",
+			"SUBTITLE": "21 days, start to handover.",
+			"LIST": {
+				"ONE": {
+					"TITLE": "One",
+					"DESCRIPTION": "",
+					"DURATION": ""
+				},
+				"TWO": {
+					"TITLE": "Two",
+					"DESCRIPTION": "",
+					"DURATION": ""
+				},
+				"THREE": {
+					"TITLE": "Three",
+					"DESCRIPTION": "",
+					"DURATION": ""
+				},
+				"FOUR": {
+					"TITLE": "Four",
+					"DESCRIPTION": "",
+					"DURATION": ""
+				},
+				"FIVE": {
+					"TITLE": "Five",
+					"DESCRIPTION": "",
+					"DURATION": ""
+				}
+			},
+			"AFTERLAUNCH": {
+				"BADGE": "After Launch",
+				"TITLE": "",
+				"DESCRIPTION1": "",
+				"DESCRIPTION2": "",
+				"CTA": ""
+			}
+		},
+		"ECOMMERCE": {
+			"BADGE": "How It Works",
+			"TITLE1": "Five stages.",
+			"TITLE2": "Twenty one days.",
+			"SUBTITLE": "21 days, start to handover.",
+			"LIST": {
+				"ONE": {
+					"TITLE": "One",
+					"DESCRIPTION": "",
+					"DURATION": ""
+				},
+				"TWO": {
+					"TITLE": "Two",
+					"DESCRIPTION": "",
+					"DURATION": ""
+				},
+				"THREE": {
+					"TITLE": "Three",
+					"DESCRIPTION": "",
+					"DURATION": ""
+				},
+				"FOUR": {
+					"TITLE": "Four",
+					"DESCRIPTION": "",
+					"DURATION": ""
+				},
+				"FIVE": {
+					"TITLE": "Five",
+					"DESCRIPTION": "",
+					"DURATION": ""
+				}
+			},
+			"AFTERLAUNCH": {
+				"BADGE": "After Launch",
+				"TITLE": "",
+				"DESCRIPTION1": "",
+				"DESCRIPTION2": "",
+				"CTA": ""
+			}
+		},
+		"GRAPHICS": {
+			"BADGE": "How It Works",
+			"TITLE1": "Five stages.",
+			"TITLE2": "Twenty one days.",
+			"SUBTITLE": "21 days, start to handover.",
+			"LIST": {
+				"ONE": {
+					"TITLE": "One",
+					"DESCRIPTION": "",
+					"DURATION": ""
+				},
+				"TWO": {
+					"TITLE": "Two",
+					"DESCRIPTION": "",
+					"DURATION": ""
+				},
+				"THREE": {
+					"TITLE": "Three",
+					"DESCRIPTION": "",
+					"DURATION": ""
+				},
+				"FOUR": {
+					"TITLE": "Four",
+					"DESCRIPTION": "",
+					"DURATION": ""
+				},
+				"FIVE": {
+					"TITLE": "Five",
+					"DESCRIPTION": "",
+					"DURATION": ""
+				}
+			},
+			"AFTERLAUNCH": {
+				"BADGE": "After Launch",
+				"TITLE": "",
+				"DESCRIPTION1": "",
+				"DESCRIPTION2": "",
+				"CTA": ""
+			}
+		},
+		"MAINTENANCE ": {
+			"BADGE": "How It Works",
+			"TITLE1": "Five stages.",
+			"TITLE2": "Twenty one days.",
+			"SUBTITLE": "21 days, start to handover.",
+			"LIST": {
+				"ONE": {
+					"TITLE": "One",
+					"DESCRIPTION": "",
+					"DURATION": ""
+				},
+				"TWO": {
+					"TITLE": "Two",
+					"DESCRIPTION": "",
+					"DURATION": ""
+				},
+				"THREE": {
+					"TITLE": "Three",
+					"DESCRIPTION": "",
+					"DURATION": ""
+				},
+				"FOUR": {
+					"TITLE": "Four",
+					"DESCRIPTION": "",
+					"DURATION": ""
+				},
+				"FIVE": {
+					"TITLE": "Five",
+					"DESCRIPTION": "",
+					"DURATION": ""
+				}
+			},
+			"AFTERLAUNCH": {
+				"BADGE": "After Launch",
+				"TITLE": "",
+				"DESCRIPTION1": "",
+				"DESCRIPTION2": "",
+				"CTA": ""
+			}
+		},
+		"APPLICATION": {
+			"BADGE": "How It Works",
+			"TITLE1": "Five stages.",
+			"TITLE2": "Twenty one days.",
+			"SUBTITLE": "21 days, start to handover.",
+			"LIST": {
+				"ONE": {
+					"TITLE": "One",
+					"DESCRIPTION": "",
+					"DURATION": ""
+				},
+				"TWO": {
+					"TITLE": "Two",
+					"DESCRIPTION": "",
+					"DURATION": ""
+				},
+				"THREE": {
+					"TITLE": "Three",
+					"DESCRIPTION": "",
+					"DURATION": ""
+				},
+				"FOUR": {
+					"TITLE": "Four",
+					"DESCRIPTION": "",
+					"DURATION": ""
+				},
+				"FIVE": {
+					"TITLE": "Five",
+					"DESCRIPTION": "",
+					"DURATION": ""
+				}
+			},
+			"AFTERLAUNCH": {
+				"BADGE": "After Launch",
+				"TITLE": "",
+				"DESCRIPTION1": "",
+				"DESCRIPTION2": "",
+				"CTA": ""
+			}
 		}
 	},
 	"TURNAROUND": {
@@ -1661,7 +1856,8 @@
 		"ENTERPRISE": {
 			"BADGE": "Enterprise",
 			"TITLE": "A custom plan for your organization.",
-			"DESCRIPTION": "Multi brand groups, retail chains and international rollouts. Programmes typically run from AED 150,000.",
+			"DESCRIPTION": "Multi brand groups, retail chains and international rollouts.",
+			"DESCRIPTION1": "Programmes typically run from AED 150,000.",
 			"DESCRIPTION2": "Our longest client relationships run for eight years.",
 			"CTA": "Talk To Us About The Scope"
 		}

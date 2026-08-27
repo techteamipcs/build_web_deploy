@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["src/app/new-features/new-comp/serve-global/serve-global.component.scss"],
+  "sourcesContent": [".global-section {\n\t\tcolor: #fff;\n\toverflow: hidden;\n\n\t&__map {\n\t\tdisplay: flex;\n\t\talign-items: center;\n\t\tjustify-content: center;\n\n\t\timg {\n\t\t\tmax-width: 100%;\n\t\t\tobject-fit: contain;\n\t\t}\n\t}\n}"],
+  "mappings": "AAAA,CAAA,eACE,MAAA,KACD,SAAA,OAEA,CAAA,oBACC,QAAA,KACA,YAAA,OACA,gBAAA,OAEA,CALD,oBAKC,IACC,UAAA,KACA,WAAA",
+  "names": []
+}
