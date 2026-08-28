@@ -77,21 +77,28 @@
 		"WEBSITE": "Website",
 		"ECOMMERCE": "Ecommerce",
 		"ECOMMERCE_SOLUTIONS": "Ecommerce Solutions",
-		"MAINTENANCE":"website maintenance",
-		"APPLICATION":"website application",
+		"MAINTENANCE": "website maintenance",
+		"APPLICATION": "website application",
 		"CREATIVE_AGENCY_BASED_IN_DUBAI": "Creative agency based in Dubai",
 		"UAE": "United Arab Emirates",
 		"CONTACT": "Contact",
 		"BOOKACALL": "Book a call"
 	},
 	"ABOUT": {
-		"AT_PIXTAR_WE_BELIEVE": "At Pixtar, we believe",
+		"AT": "At",
+		"PIXTAR": "Pixtar,",
+		"WE_BELIEVE": "we believe",
 		"JUST_ABOUT": "design isn’t just about",
-		"AESTHETICS": "Aesthetics",
-		"DESIGN_HARMONY": " — it's about creating harmony, inspiring trust, and building connections.",
+		"AESTHETICS": "Aesthetics,",
+		"ITS_ABOUT": "it’s about ",
+		"HARMONY": "creating harmony, inspiring trust ",
+		"CONNECTIONS": "and building connections.",
 		"WERE_A_TEAM_OF": "We're a team of",
-		"CREATORS_THINKERS": "creators, thinkers, and dreamers, rooted in Dubai-UAE",
-		"DESIGNING_GLOBAL": "but designing for a global audience.",
+		"CREATORS_THINKERS": "creators, thinkers, and dreamers, rooted in ",
+		"DUBAI": "Dubai",
+		"UAE": "UAE",
+		"DESIGNING_GLOBAL": "but designing ",
+		"GLOBAL": "for a global audience.",
 		"WHAT_DRIVES_OUR_DESIGN": "WHAT DRIVES OUR DESIGN",
 		"WE_CARE_ABOUT": "We Care About…",
 		"YOU": "You",
@@ -309,6 +316,7 @@
 		"WHAT_YOUR_MOBILE_NUMBER": "What's your Mobile Number?"
 	},
 	"CHOOSE_SECTION": {
+		"BADGE": "OUR PROMISE",
 		"why_choose_pixtar": "Why Choose Pixtar?",
 		"crafted_with_the_golden_ratio": "Crafted With The Golden Ratio",
 		"Desc1": "Everything we design follows the timeless principles of the golden ratio — creating perfect harmony between form and function.",
@@ -668,7 +676,6 @@
 	"THEPOSITION": {
 		"HOME": {
 			"BADGE": "The position",
-
 			"TITLE_PARTS": [
 				{
 					"text": "The most expensive ",
@@ -677,14 +684,13 @@
 				{
 					"text": "Brand ",
 					"style": "script",
-					"break": true
+					"break": "true"
 				},
 				{
 					"text": "is the cheap one.",
 					"color": "textcolor2"
 				}
 			],
-
 			"DESCRIPTIONS": [
 				{
 					"text": "A business rarely struggles because the product is weak. It struggles because the brand makes a good product look ordinary. The deck undersells you. The site loses the client before the call."
@@ -694,7 +700,7 @@
 				},
 				{
 					"text": "That's more true now than it was. Anyone can generate something that looks fine in an afternoon. Almost nobody can tell you whether it's right.",
-					"bold": true
+					"bold": "true"
 				}
 			]
 		},
@@ -717,7 +723,7 @@
 				},
 				{
 					"text": "It's how the ",
-					"break": true
+					"break": "true"
 				},
 				{
 					"text": "world ",
@@ -744,12 +750,12 @@
 				},
 				{
 					"text": "Expensive. Expensive.",
-					"style": "script",
-					"break": true
+					"style": "script"
 				},
 				{
 					"text": "Freelancers disappear.",
-					"style": "medium"
+					"style": "medium",
+					"break": "true"
 				}
 			],
 			"DESCRIPTIONS": [
@@ -761,7 +767,7 @@
 				},
 				{
 					"text": "We already know your brand. We are here every month. Nothing drifts.",
-					"bold": true
+					"bold": "true"
 				}
 			]
 		},
@@ -773,14 +779,14 @@
 				},
 				{
 					"text": "websites",
-					"style": "medium",
-					"break": true
+					"style": "medium"
 				},
 				{
 					"text": "are furniture."
 				},
 				{
-					"text": "Yours should be"
+					"text": "Yours should be",
+					"break": "true"
 				},
 				{
 					"text": "Staff.",
@@ -796,7 +802,7 @@
 				},
 				{
 					"text": "We build sites that hold attention long enough to earn the enquiry.",
-					"bold": true
+					"bold": "true"
 				}
 			]
 		},
@@ -815,7 +821,8 @@
 				},
 				{
 					"text": "sale",
-					"style": "script"
+					"style": "script",
+					"break": "true"
 				},
 				{
 					"text": "at checkout."
@@ -830,7 +837,7 @@
 				},
 				{
 					"text": "We build stores for this region, because we built them here before and we know where they break.",
-					"bold": true
+					"bold": "true"
 				}
 			]
 		},
@@ -842,7 +849,8 @@
 					"style": "medium"
 				},
 				{
-					"text": "don't"
+					"text": "don't",
+					"break": "true"
 				},
 				{
 					"text": "Scale.",
@@ -858,11 +866,11 @@
 				},
 				{
 					"text": "We build the software your business actually runs on, shaped around how you already work.",
-					"bold": true
+					"bold": "true"
 				}
 			]
 		},
-		"WEBMAINTENANCE": {
+		"MAINTENANCE": {
 			"BADGE": "The position",
 			"TITLE_PARTS": [
 				{
@@ -871,7 +879,8 @@
 				},
 				{
 					"text": "Break",
-					"style": "script"
+					"style": "script",
+					"break": "true"
 				},
 				{
 					"text": "quietly."
@@ -886,17 +895,61 @@
 				},
 				{
 					"text": "Someone should be watching. Usually nobody is.",
-					"bold": true
+					"bold": "true"
 				}
 			]
 		}
 	},
 	"WHATYOUGET": {
+		"ABOUT": {
+			"BADGE": "WHAT WE BELIEVE",
+			"TITLE_PARTS": [
+				{ "text": "Five things,", "style": "bold" },
+				{ "text": "each one rules something out.", "break": "true" }
+			],
+			"LIST": {
+				"ITEM1": {
+					"NUMBER": "1",
+					"TITLE": "Your logo is not your brand.",
+					"DESCRIPTION": "A brand is what a client feels before they have spoken to you. If the logo is beautiful and the proposal is a mess, you do not have a brand. You have a logo."
+				},
+				"ITEM2": {
+					"NUMBER": "2",
+					"TITLE": "Design is a decision, not a deliverable.",
+					"DESCRIPTION": "We have rebuilt more brands than we have built from scratch. Almost always eighteen months after someone chose fast over right."
+				},
+				"ITEM3": {
+					"NUMBER": "3",
+					"TITLE": "The Cheapest Version Is Rarely The Cheapest.",
+					"DESCRIPTION": "The thing your team does manually every week, done once and properly."
+				},
+				"ITEM4": {
+					"NUMBER": "4",
+					"TITLE": "Nobody should be locked in.",
+					"DESCRIPTION": "Every source file, every line of code, every hosting login. Yours on final payment. If you want to leave, you should be able to leave."
+				},
+				"ITEM5": {
+					"NUMBER": "5",
+					"TITLE": "We Will Tell You When You Are Wrong.",
+					"DESCRIPTION": "Politely, with reasoning, usually with an alternative. You are not paying us to agree with you."
+				}
+			}
+		},
 		"BRANDING": {
 			"BADGE": "WHAT YOU GET",
-			"TITLE1": "Everything your ",
-			"TITLE2": "brand",
-			"BARCELY": "touches",
+			"TITLE_PARTS": [
+				{
+					"text": "Everything your"
+				},
+				{
+					"text": " brand ",
+					"break": "true"
+				},
+				{
+					"text": "touches.",
+					"style": "bold"
+				}
+			],
 			"LIST": {
 				"STRATEGY": {
 					"NUMBER": "1",
@@ -927,10 +980,18 @@
 		},
 		"GRAPHICS": {
 			"BADGE": "WHAT YOU GET",
-			"TITLE1": "Whatever your",
-			"BARCELY": "brand",
-			"TITLE2": "needs",
-			"TITLE3": "this month.",
+			"TITLE_PARTS": [
+				{
+					"text": "Whatever your"
+				},
+				{
+					"text": " brand ",
+					"style": "bold"
+				},
+				{
+					"text": "needs this month."
+				}
+			],
 			"LIST": {
 				"ITEM1": {
 					"NUMBER": "1",
@@ -972,10 +1033,22 @@
 		},
 		"ECOMMERCE": {
 			"BADGE": "WHAT YOU GET",
-			"TITLE1": "Everything a ",
-			"BARCELY": "store",
-			"TITLE2": "needs to ",
-			"TITLE3": "sell.",
+			"TITLE_PARTS": [
+				{
+					"text": "Everything a"
+				},
+				{
+					"text": " store ",
+					"style": "bold"
+				},
+				{
+					"text": "needs to"
+				},
+				{
+					"text": " sell.",
+					"style": "bold"
+				}
+			],
 			"LIST": {
 				"STOREFRONT": {
 					"NUMBER": "1",
@@ -1010,11 +1083,22 @@
 			}
 		},
 		"APPLICATION": {
-			"BADGE": "WHAT YOU GET",
-			"TITLE1": "Everything a ",
-			"BARCELY": "platform",
-			"TITLE2": "needs to ",
-			"TITLE3": "work.",
+			"BADGE": "WHAT WE BUILD",
+			"TITLE_PARTS": [
+				{
+					"text": "Everything a"
+				},
+				{
+					"text": " platform "
+				},
+				{
+					"text": "needs to "
+				},
+				{
+					"text": "work.",
+					"style": "bold"
+				}
+			],
 			"LIST": {
 				"ITEM1": {
 					"NUMBER": "1",
@@ -1056,10 +1140,21 @@
 		},
 		"MAINTENANCE": {
 			"BADGE": "WHAT WE COVER",
-			"TITLE1": "Everything",
-			"BARCELY": "that keeps a",
-			"TITLE2": "site",
-			"TITLE3": "alive",
+			"TITLE_PARTS": [
+				{
+					"text": "Everything"
+				},
+				{
+					"text": " that keeps a "
+				},
+				{
+					"text": "site"
+				},
+				{
+					"text": " alive",
+					"style": "bold"
+				}
+			],
 			"LIST": {
 				"ITEM1": {
 					"NUMBER": "1",
@@ -1265,7 +1360,7 @@
 				},
 				{
 					"text": "Start by ",
-					"break": true
+					"break": "true"
 				},
 				{
 					"text": "finding",
@@ -1299,7 +1394,7 @@
 				{
 					"text": "find",
 					"style": "barcely",
-					"break": true
+					"break": "true"
 				},
 				{
 					"text": " out "
@@ -1326,7 +1421,7 @@
 				{
 					"text": "find",
 					"style": "barcely",
-					"break": true
+					"break": "true"
 				},
 				{
 					"text": "out what's holding them back."
@@ -1348,7 +1443,7 @@
 				},
 				{
 					"text": "but not ",
-					"break": true
+					"break": "true"
 				},
 				{
 					"text": "Orders?",
@@ -1370,7 +1465,6 @@
 		},
 		"APPLICATION": {
 			"BADGE": "SCOPING SESSION",
-
 			"TITLE_PARTS": [
 				{
 					"text": "Not ready to commit "
@@ -1383,15 +1477,11 @@
 					"style": "barcely"
 				}
 			],
-
 			"DESCRIPTIONS": [
 				"Start with a scope.",
-
 				"Two sessions with our founder and lead developer. We map how your business works now, what the platform has to do, and what it will cost to build.",
-
 				"You get a written specification. Screens, workflows, integrations, timeline and a fixed price. AED 5,000, credited in full against the build if you proceed within 60 days. The specification is your either way. Take it to any developer you like."
 			],
-
 			"BUTTON": "Book a Scoping Session. AED 5,000"
 		}
 	},
@@ -1413,12 +1503,9 @@
 			"TITLE1": "Should you",
 			"BOLD": "build",
 			"TITLE2": "at all?",
-
 			"DESCRIPTIONS": [
 				"Often, no. If an off the shelf product covers what you need, buy it. It will be cheaper and available on Monday.",
-
 				"Building makes sense when the software has to match a process that is specific to how you work, when you are paying for several tools that almost do the job, or when the licence cost of a subscription passes the cost of owning it outright.",
-
 				"We will tell you which situation you are in on the first call, including when the answer is that you should not build anything."
 			]
 		}
@@ -1524,7 +1611,17 @@
 					"TITLE": "Design",
 					"DESCRIPTION": "We design the identity system — logo, colour, type — and refine it with you.",
 					"DURATION": "6 days"
-				} 
+				},
+				"FOUR": {
+					"TITLE": "Design",
+					"DESCRIPTION": "We design the identity system — logo, colour, type — and refine it with you.",
+					"DURATION": "6 days"
+				},
+				"FIVE": {
+					"TITLE": "Design",
+					"DESCRIPTION": "We design the identity system — logo, colour, type — and refine it with you.",
+					"DURATION": "6 days"
+				}
 			},
 			"AFTERLAUNCH": {
 				"BADGE": "After Launch",
@@ -1541,37 +1638,37 @@
 			"SUBTITLE": "21 days, start to handover.",
 			"LIST": {
 				"ONE": {
-					"TITLE": "One",
-					"DESCRIPTION": "",
-					"DURATION": ""
+					"TITLE": "Discover",
+					"DESCRIPTION": "We interview you, study your market and find the gap you can own.",
+					"DURATION": "2 days"
 				},
 				"TWO": {
-					"TITLE": "Two",
-					"DESCRIPTION": "",
-					"DURATION": ""
+					"TITLE": "Define",
+					"DESCRIPTION": "We lock the strategy, the positioning and the story your brand will tell.",
+					"DURATION": "2 days"
 				},
 				"THREE": {
-					"TITLE": "Three",
-					"DESCRIPTION": "",
-					"DURATION": ""
+					"TITLE": "Design",
+					"DESCRIPTION": "We design the identity system — logo, colour, type — and refine it with you.",
+					"DURATION": "6 days"
 				},
 				"FOUR": {
-					"TITLE": "Four",
-					"DESCRIPTION": "",
-					"DURATION": ""
+					"TITLE": "Design",
+					"DESCRIPTION": "We design the identity system — logo, colour, type — and refine it with you.",
+					"DURATION": "6 days"
 				},
 				"FIVE": {
-					"TITLE": "Five",
-					"DESCRIPTION": "",
-					"DURATION": ""
+					"TITLE": "Design",
+					"DESCRIPTION": "We design the identity system — logo, colour, type — and refine it with you.",
+					"DURATION": "6 days"
 				}
 			},
 			"AFTERLAUNCH": {
 				"BADGE": "After Launch",
-				"TITLE": "",
-				"DESCRIPTION1": "",
-				"DESCRIPTION2": "",
-				"CTA": ""
+				"TITLE": "We don't disappear at handover.",
+				"DESCRIPTION1": "Every brand we build comes with a monthly graphic design plan. Backups, security patches, updates and uptime monitoring, from AED 900 a month.",
+				"DESCRIPTION2": "A site nobody maintains is a site that breaks quietly, usually at the worst moment.",
+				"CTA": "Explore Brand Guardian"
 			}
 		},
 		"ECOMMERCE": {
@@ -1581,37 +1678,37 @@
 			"SUBTITLE": "21 days, start to handover.",
 			"LIST": {
 				"ONE": {
-					"TITLE": "One",
-					"DESCRIPTION": "",
-					"DURATION": ""
+					"TITLE": "Discover",
+					"DESCRIPTION": "We interview you, study your market and find the gap you can own.",
+					"DURATION": "2 days"
 				},
 				"TWO": {
-					"TITLE": "Two",
-					"DESCRIPTION": "",
-					"DURATION": ""
+					"TITLE": "Define",
+					"DESCRIPTION": "We lock the strategy, the positioning and the story your brand will tell.",
+					"DURATION": "2 days"
 				},
 				"THREE": {
-					"TITLE": "Three",
-					"DESCRIPTION": "",
-					"DURATION": ""
+					"TITLE": "Design",
+					"DESCRIPTION": "We design the identity system — logo, colour, type — and refine it with you.",
+					"DURATION": "6 days"
 				},
 				"FOUR": {
-					"TITLE": "Four",
-					"DESCRIPTION": "",
-					"DURATION": ""
+					"TITLE": "Design",
+					"DESCRIPTION": "We design the identity system — logo, colour, type — and refine it with you.",
+					"DURATION": "6 days"
 				},
 				"FIVE": {
-					"TITLE": "Five",
-					"DESCRIPTION": "",
-					"DURATION": ""
+					"TITLE": "Design",
+					"DESCRIPTION": "We design the identity system — logo, colour, type — and refine it with you.",
+					"DURATION": "6 days"
 				}
 			},
 			"AFTERLAUNCH": {
 				"BADGE": "After Launch",
-				"TITLE": "",
-				"DESCRIPTION1": "",
-				"DESCRIPTION2": "",
-				"CTA": ""
+				"TITLE": "We don't disappear at handover.",
+				"DESCRIPTION1": "Every brand we build comes with a monthly graphic design plan. Backups, security patches, updates and uptime monitoring, from AED 900 a month.",
+				"DESCRIPTION2": "A site nobody maintains is a site that breaks quietly, usually at the worst moment.",
+				"CTA": "Explore Brand Guardian"
 			}
 		},
 		"GRAPHICS": {
@@ -1621,37 +1718,37 @@
 			"SUBTITLE": "21 days, start to handover.",
 			"LIST": {
 				"ONE": {
-					"TITLE": "One",
-					"DESCRIPTION": "",
-					"DURATION": ""
+					"TITLE": "Discover",
+					"DESCRIPTION": "We interview you, study your market and find the gap you can own.",
+					"DURATION": "2 days"
 				},
 				"TWO": {
-					"TITLE": "Two",
-					"DESCRIPTION": "",
-					"DURATION": ""
+					"TITLE": "Define",
+					"DESCRIPTION": "We lock the strategy, the positioning and the story your brand will tell.",
+					"DURATION": "2 days"
 				},
 				"THREE": {
-					"TITLE": "Three",
-					"DESCRIPTION": "",
-					"DURATION": ""
+					"TITLE": "Design",
+					"DESCRIPTION": "We design the identity system — logo, colour, type — and refine it with you.",
+					"DURATION": "6 days"
 				},
 				"FOUR": {
-					"TITLE": "Four",
-					"DESCRIPTION": "",
-					"DURATION": ""
+					"TITLE": "Design",
+					"DESCRIPTION": "We design the identity system — logo, colour, type — and refine it with you.",
+					"DURATION": "6 days"
 				},
 				"FIVE": {
-					"TITLE": "Five",
-					"DESCRIPTION": "",
-					"DURATION": ""
+					"TITLE": "Design",
+					"DESCRIPTION": "We design the identity system — logo, colour, type — and refine it with you.",
+					"DURATION": "6 days"
 				}
 			},
 			"AFTERLAUNCH": {
 				"BADGE": "After Launch",
-				"TITLE": "",
-				"DESCRIPTION1": "",
-				"DESCRIPTION2": "",
-				"CTA": ""
+				"TITLE": "We don't disappear at handover.",
+				"DESCRIPTION1": "Every brand we build comes with a monthly graphic design plan. Backups, security patches, updates and uptime monitoring, from AED 900 a month.",
+				"DESCRIPTION2": "A site nobody maintains is a site that breaks quietly, usually at the worst moment.",
+				"CTA": "Explore Brand Guardian"
 			}
 		},
 		"MAINTENANCE ": {
@@ -1661,37 +1758,37 @@
 			"SUBTITLE": "21 days, start to handover.",
 			"LIST": {
 				"ONE": {
-					"TITLE": "One",
-					"DESCRIPTION": "",
-					"DURATION": ""
+					"TITLE": "Discover",
+					"DESCRIPTION": "We interview you, study your market and find the gap you can own.",
+					"DURATION": "2 days"
 				},
 				"TWO": {
-					"TITLE": "Two",
-					"DESCRIPTION": "",
-					"DURATION": ""
+					"TITLE": "Define",
+					"DESCRIPTION": "We lock the strategy, the positioning and the story your brand will tell.",
+					"DURATION": "2 days"
 				},
 				"THREE": {
-					"TITLE": "Three",
-					"DESCRIPTION": "",
-					"DURATION": ""
+					"TITLE": "Design",
+					"DESCRIPTION": "We design the identity system — logo, colour, type — and refine it with you.",
+					"DURATION": "6 days"
 				},
 				"FOUR": {
-					"TITLE": "Four",
-					"DESCRIPTION": "",
-					"DURATION": ""
+					"TITLE": "Design",
+					"DESCRIPTION": "We design the identity system — logo, colour, type — and refine it with you.",
+					"DURATION": "6 days"
 				},
 				"FIVE": {
-					"TITLE": "Five",
-					"DESCRIPTION": "",
-					"DURATION": ""
+					"TITLE": "Design",
+					"DESCRIPTION": "We design the identity system — logo, colour, type — and refine it with you.",
+					"DURATION": "6 days"
 				}
 			},
 			"AFTERLAUNCH": {
 				"BADGE": "After Launch",
-				"TITLE": "",
-				"DESCRIPTION1": "",
-				"DESCRIPTION2": "",
-				"CTA": ""
+				"TITLE": "We don't disappear at handover.",
+				"DESCRIPTION1": "Every brand we build comes with a monthly graphic design plan. Backups, security patches, updates and uptime monitoring, from AED 900 a month.",
+				"DESCRIPTION2": "A site nobody maintains is a site that breaks quietly, usually at the worst moment.",
+				"CTA": "Explore Brand Guardian"
 			}
 		},
 		"APPLICATION": {
@@ -1701,37 +1798,37 @@
 			"SUBTITLE": "21 days, start to handover.",
 			"LIST": {
 				"ONE": {
-					"TITLE": "One",
-					"DESCRIPTION": "",
-					"DURATION": ""
+					"TITLE": "Discover",
+					"DESCRIPTION": "We interview you, study your market and find the gap you can own.",
+					"DURATION": "2 days"
 				},
 				"TWO": {
-					"TITLE": "Two",
-					"DESCRIPTION": "",
-					"DURATION": ""
+					"TITLE": "Define",
+					"DESCRIPTION": "We lock the strategy, the positioning and the story your brand will tell.",
+					"DURATION": "2 days"
 				},
 				"THREE": {
-					"TITLE": "Three",
-					"DESCRIPTION": "",
-					"DURATION": ""
+					"TITLE": "Design",
+					"DESCRIPTION": "We design the identity system — logo, colour, type — and refine it with you.",
+					"DURATION": "6 days"
 				},
 				"FOUR": {
-					"TITLE": "Four",
-					"DESCRIPTION": "",
-					"DURATION": ""
+					"TITLE": "Design",
+					"DESCRIPTION": "We design the identity system — logo, colour, type — and refine it with you.",
+					"DURATION": "6 days"
 				},
 				"FIVE": {
-					"TITLE": "Five",
-					"DESCRIPTION": "",
-					"DURATION": ""
+					"TITLE": "Design",
+					"DESCRIPTION": "We design the identity system — logo, colour, type — and refine it with you.",
+					"DURATION": "6 days"
 				}
 			},
 			"AFTERLAUNCH": {
 				"BADGE": "After Launch",
-				"TITLE": "",
-				"DESCRIPTION1": "",
-				"DESCRIPTION2": "",
-				"CTA": ""
+				"TITLE": "We don't disappear at handover.",
+				"DESCRIPTION1": "Every brand we build comes with a monthly graphic design plan. Backups, security patches, updates and uptime monitoring, from AED 900 a month.",
+				"DESCRIPTION2": "A site nobody maintains is a site that breaks quietly, usually at the worst moment.",
+				"CTA": "Explore Brand Guardian"
 			}
 		}
 	},
@@ -1760,12 +1857,9 @@
 		},
 		"APPLICATION": {
 			"BADGE": "TURNAROUND",
-
 			"TITLE1": "What counts as a",
 			"TITLE2": "request",
-
 			"INCLUDED_LABEL": "Included",
-
 			"INCLUDED": {
 				"ITEM1": "Text and image updates",
 				"ITEM2": "New blog posts and banners",
@@ -1775,9 +1869,7 @@
 				"ITEM6": "Bug fixes",
 				"ITEM7": "Security and performance work"
 			},
-
 			"QUOTED_LABEL": "Quoted separately",
-
 			"QUOTED": {
 				"ITEM1": "New pages",
 				"ITEM2": "New features or functionality",
@@ -1786,17 +1878,13 @@
 				"ITEM5": "Content writing and photography",
 				"ITEM6": "Paid advertising and SEO campaigns"
 			},
-
 			"NOTE": "If something falls between the two, we tell you before we start, not after."
 		},
 		"MAINTENANCE": {
 			"BADGE": "TURNAROUND",
-
 			"TITLE1": "What counts as a",
 			"TITLE2": "request",
-
 			"INCLUDED_LABEL": "Included",
-
 			"INCLUDED": {
 				"ITEM1": "Text and image updates",
 				"ITEM2": "New blog posts and banners",
@@ -1806,9 +1894,7 @@
 				"ITEM6": "Bug fixes",
 				"ITEM7": "Security and performance work"
 			},
-
 			"QUOTED_LABEL": "Quoted separately",
-
 			"QUOTED": {
 				"ITEM1": "New pages",
 				"ITEM2": "New features or functionality",
@@ -1817,7 +1903,6 @@
 				"ITEM5": "Content writing and photography",
 				"ITEM6": "Paid advertising and SEO campaigns"
 			},
-
 			"NOTE": "If something falls between the two, we tell you before we start, not after."
 		}
 	},
@@ -1861,5 +1946,62 @@
 			"DESCRIPTION2": "Our longest client relationships run for eight years.",
 			"CTA": "Talk To Us About The Scope"
 		}
-	}
+	},
+	"OBVIOUS": {
+		"ABOUT": {
+			"BADGE": "THE OBVIOUS QUESTION",
+			"TITLE_PARTS": [
+				{ "text": "Most branding is" },
+				{ "text": "decoration.", "style": "bold", "break": "true" }
+			],
+			"PARAGRAPH1_PARTS": [
+				{ "text": "Our founder spent years watching " },
+				{
+					"text": "businesses pay for logos that looked fine and changed nothing.",
+					"bold": "true"
+				},
+				{
+					"text": " The work was competent. It was also arbitrary. Someone moved shapes around until it looked right, and nobody could explain why one version was better than another."
+				}
+			],
+			"QUOTE": "That is not a craft. It is taste with an invoice attached.",
+			"PARAGRAPH2_PARTS": [
+				{ "text": "Pixtar started in 2022", "bold": "true" },
+				{
+					"text": " to do it the other way round. Decide first, then design. Build every mark on proportion that can be measured rather than argued about. Say why, not just what."
+				}
+			]
+		}
+	},
+	"CLIENTSWETURNDOWN": {
+		"BADGE": "WHAT WE BELIEVE",
+		"TITLE1": "Three kinds of client",
+		"TITLE2": "we turn down.",
+		"DESCRIPTION": "If you know exactly what you want and you are right, we will build it and tell you what will and will not work. That is not the problem. These are.",
+		"LIST": {
+			"ITEM1": {
+				"TITLE": "If you want it cheap",
+				"DESCRIPTION": "Fast we can do. Cheap we cannot, and pretending otherwise wastes everyone's time. There are good people in Dubai who charge less. We will name one."
+			},
+			"ITEM2": {
+				"TITLE": "If it goes to committee",
+				"DESCRIPTION": "Good work needs someone who can say yes. When five people each own part of the decision, the brand becomes the average of five opinions. It ends up looking like everyone else's."
+			},
+			"ITEM3": {
+				"TITLE": "If design is delegated",
+				"DESCRIPTION": "The best work happens when the owner is in the room. A brand handed down the org chart to be handled will always look like it was. We work with whoever decides."
+			}
+		}
+	},
+	"FOUNDER": {
+    "BADGE": "THE TEAM",
+    "TITLE1": "Small team",
+    "TITLE2": "no freelancers",
+    "QUOTE1": "Large enough to tackle any project.",
+    "QUOTE2": "Small enough to keep it personal.",
+    "NAME": "Khwaja Banda Nawaz Betgeri",
+    "ROLE": "CEO & Creative Director",
+    "TAGLINE": "Leads Every Brand Project Personally.",
+    "PHOTO_ALT": "Khwaja Banda Nawaz Betgeri, CEO and Creative Director of Pixtar"
+}
 }

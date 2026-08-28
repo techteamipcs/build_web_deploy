@@ -1,7 +1,0 @@
-{
-  "version": 3,
-  "sources": ["src/app/new-features/new-reusable/ai-section/ai-section.component.scss"],
-  "sourcesContent": ["\n.ai-visual {\n  position: relative;\n  width: 100%;\n  height: 100%;\n  display: flex;\n  align-items: center;\n  justify-content: center;\n    @media screen and (max-width:991px) {\n      height: 400px;\n  }\n}\n\n.circle {\n  position: absolute;\n     width: 80%;\n    height: 70%;\n  border: 1px solid #1e1e1e;\n  border-radius: 50%;\n  @media screen and (max-width:1536px) {\n     width: 100%;\n    height: 50%;\n  }\n  @media screen and (max-width:991px) {\n     width: 300px;\n    height: 300px;\n  }\n}\n\n.circle-one {\n  transform: translate(-3px, -3px);\n}\n\n.circle-two {\n  transform: translate(2px, 2px);\n}\n\n.circle-three {\n  transform: translate(0, 7px);\n}\n"],
-  "mappings": "AACA,CAAA,UACE,SAAA,SACA,MAAA,KACA,OAAA,KACA,QAAA,KACA,YAAA,OACA,gBAAA,OACE,OAAA,YAAA,UAAA,OAPJ,CAAA,UAQM,OAAA,OAIN,CAAA,OACE,SAAA,SACG,MAAA,IACD,OAAA,IACF,OAAA,IAAA,MAAA,QAhBF,cAiBE,IACA,OAAA,YAAA,UAAA,QANF,CAAA,OAOK,MAAA,KACD,OAAA,KAEF,OAAA,YAAA,UAAA,OAVF,CAAA,OAWK,MAAA,MACD,OAAA,OAIJ,CAAA,WACE,UAAA,UAAA,IAAA,CAAA,MAGF,CAAA,WACE,UAAA,UAAA,GAAA,CAAA,KAGF,CAAA,aACE,UAAA,WAAA",
-  "names": []
-}

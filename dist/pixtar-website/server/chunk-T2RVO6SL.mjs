@@ -1,0 +1,2 @@
+import './polyfills.server.mjs';
+import{x as o}from"./chunk-FVTRKHHM.mjs";import{Ia as e,Qa as a}from"./chunk-TFNQXOPU.mjs";var s=class t{constructor(r){this.translationService=r}transform(r,i){let c=this.translationService.currentLang(),n=`${i}_ar`;return c==="ar"&&r?.[n]&&r?.[n]!=="-"?r[n]:r?.[i]}static{this.\u0275fac=function(i){return new(i||t)(e(o,16))}}static{this.\u0275pipe=a({name:"tField",type:t,pure:!1})}};export{s as a};
