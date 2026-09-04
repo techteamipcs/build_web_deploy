@@ -77,12 +77,50 @@
 		"WEBSITE": "Website",
 		"ECOMMERCE": "Ecommerce",
 		"ECOMMERCE_SOLUTIONS": "Ecommerce Solutions",
+		"ECOMMERCE_WEBSITES": "eCommerce Websites",
 		"MAINTENANCE": "website maintenance",
 		"APPLICATION": "website application",
 		"CREATIVE_AGENCY_BASED_IN_DUBAI": "Creative agency based in Dubai",
 		"UAE": "United Arab Emirates",
 		"CONTACT": "Contact",
-		"BOOKACALL": "Book a call"
+		"BOOKACALL": "Book a call",
+		"BRAND": "Brand",
+		"BRAND_IDENTITY_REBRANDING": "brand identity & rebranding",
+		"GRAPHICS_DESIGN_PACKAGES": "Graphic Designing & packaging",
+		"CUSTOM_WEBSITES_DEVELOPMENT": "Custom Websites design & Development",
+		"ECOMMERCE_WEBSITES_DEVELOPMENT": "Ecommerce Websites design & Development",
+		"BUILD": "build",
+		"SHOWCASE": "Showcase",
+		"FEATURED_PROJECTS": "Featured Projects",
+		"OTHER_SERVICES": "Other Services",
+		"STUDIO": "Studio",
+		"OUR_STORY": "Our Story",
+		"WHY_US": "6 Things you should know about us",
+		"WHO_WE_ARE": "Who we are",
+		"TEAM": "Team",
+		"BRAND_DESIGN": "Brand Design",
+		"DYNAMIC_WEBSITES": "Dynamic Websites",
+		"WEB_APPS_PORTALS": "Web Applications & Portals",
+		"DEVELOPMENT": "Development",
+		"STATIC_WEBSITE": "Static Website",
+		"DYNAMIC_WEBSITE": "Dynamic Website",
+		"ECOMMERCE_WEBSITE": "eCommerce Website",
+		"DESIGN": "Design",
+		"GRAPHIC_DESIGN": "Graphic Design",
+		"UI_UX_DESIGN": "UI/UX Design",
+		"FIGMA_DESIGN": "Figma Design",
+		"MANAGE": "Manage",
+		"HOSTING": "Hosting",
+		"WEBSITE_MAINTENANCE": "Website Maintenance",
+		"ECOMMERCE_MAINTENANCE": "eCommerce Website Maintenance",
+		"SEO_AEO": "SEO/AEO",
+		"LATEST": "Latest",
+		"LATEST_ARTICLES": "Latest Articles",
+		"EXPLORE": "Explore",
+		"CRAFT": "Craft",
+		"DESIGN_INSIGHTS": "Design Insights",
+		"STRATEGY": "Strategy",
+		"BUSINESS_INSIGHTS": "Business Insights"
 	},
 	"ABOUT": {
 		"AT": "At",
@@ -1201,6 +1239,7 @@
 		"TITLE2": "ambitious brands ",
 		"TITLE3": "and bold teams",
 		"BUTTON": "Book a 15 minute call",
+		"OPEN_CASE_STUDY": "Open Case Study",
 		"PROJECTS": {
 			"PROJECT1": {
 				"TITLE": "Tablon",
@@ -1356,11 +1395,10 @@
 					"style": "medium"
 				},
 				{
-					"text": "from where to start?"
+					"text": "from where to start? "
 				},
 				{
-					"text": "Start by ",
-					"break": "true"
+					"text": "Start by "
 				},
 				{
 					"text": "finding",
@@ -1751,7 +1789,7 @@
 				"CTA": "Explore Brand Guardian"
 			}
 		},
-		"MAINTENANCE ": {
+		"MAINTENANCE": {
 			"BADGE": "How It Works",
 			"TITLE1": "Five stages.",
 			"TITLE2": "Twenty one days.",
@@ -1994,14 +2032,14 @@
 		}
 	},
 	"FOUNDER": {
-    "BADGE": "THE TEAM",
-    "TITLE1": "Small team",
-    "TITLE2": "no freelancers",
-    "QUOTE1": "Large enough to tackle any project.",
-    "QUOTE2": "Small enough to keep it personal.",
-    "NAME": "Khwaja Banda Nawaz Betgeri",
-    "ROLE": "CEO & Creative Director",
-    "TAGLINE": "Leads Every Brand Project Personally.",
-    "PHOTO_ALT": "Khwaja Banda Nawaz Betgeri, CEO and Creative Director of Pixtar"
-}
+		"BADGE": "THE TEAM",
+		"TITLE1": "Small team",
+		"TITLE2": "no freelancers",
+		"QUOTE1": "Large enough to tackle any project.",
+		"QUOTE2": "Small enough to keep it personal.",
+		"NAME": "Khwaja Banda Nawaz Betgeri",
+		"ROLE": "CEO & Creative Director",
+		"TAGLINE": "Leads Every Brand Project Personally.",
+		"PHOTO_ALT": "Khwaja Banda Nawaz Betgeri, CEO and Creative Director of Pixtar"
+	}
 }

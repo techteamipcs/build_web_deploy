@@ -1,0 +1,3 @@
+import './polyfills.server.mjs';
+import{a as e}from"./chunk-LTSA2R3V.mjs";import{c as p}from"./chunk-DKYYFVFE.mjs";import{H as c,L as n,h as i,t as s}from"./chunk-2QVHGGMW.mjs";var d=(()=>{class t{constructor(r){this.http=r,this.getAllProjects=o=>{let a=e.baseUrl+"/api/project/listprojects";return this.http.post(a,o).pipe(s(m=>i({code:200,status:"Success",result:[]})))}}sendContactForm(r){return this.http.post(`${e.baseUrl}/api/project/referralmail`,r)}static{this.\u0275fac=function(o){return new(o||t)(n(p))}}static{this.\u0275prov=c({token:t,factory:t.\u0275fac,providedIn:"root"})}}return t})();export{d as a};
+//# sourceMappingURL=chunk-RAS4REJM.mjs.map
